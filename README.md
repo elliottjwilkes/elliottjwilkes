@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @elliottjwilkes
+- 👀 I’m interested in anything Computer Science related
+- 🌱 I’m currently learning Web Development and just finished my first year studying CompSci at University of Liverpool
+- 💞️ I’m looking to collaborate on nothing at the moment
+- 📫 How to reach me -> wilkeselliott@gmail.com
+
+<!---
+elliottjwilkes/elliottjwilkes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
