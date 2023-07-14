@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @elliottjwilkes
 - 👀 I’m interested in anything Computer Science related
 - 🌱 I just finished my second year studying CompSci at University of Liverpool
-- 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 How to reach me -> wilkeselliott@gmail.com
 
 <!---
